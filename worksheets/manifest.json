@@ -1,0 +1,36 @@
+{
+  "year7": {
+    "number-operations": [
+      {
+        "title": "Integer Operations",
+        "description": "Adding, subtracting, multiplying and dividing integers",
+        "files": ["integer-operations.pdf", "integer-operations-answers.pdf"]
+      }
+    ],
+    "fractions-decimals": [],
+    "algebra": [],
+    "geometry": [],
+    "statistics": []
+  },
+  "year8": {
+    "number-operations": [],
+    "fractions-decimals": [],
+    "algebra": [],
+    "geometry": [],
+    "statistics": []
+  },
+  "year9": {
+    "number-operations": [],
+    "fractions-decimals": [],
+    "algebra": [],
+    "geometry": [],
+    "statistics": []
+  },
+  "year10": {
+    "number-operations": [],
+    "fractions-decimals": [],
+    "algebra": [],
+    "geometry": [],
+    "statistics": []
+  }
+}
